@@ -26,6 +26,7 @@
     "no-console": "off",
     "quotes": ["error", "double"],
     "comma-style": ["error", "last"],
+    "global-require": "off",
     "import/extensions": [
       "error",
       "ignorePackages",
